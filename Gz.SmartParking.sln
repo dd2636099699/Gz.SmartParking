@@ -7,23 +7,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{C9DB11
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{53AAF802-F95B-4F0C-A66E-3A2F7E56D766}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.Start", "Server\Zhaoxi.SmartParking.Server.Start\Gz.SmartParking.Server.Start.csproj", "{DC92A6BE-E381-47CB-B190-7A917BC989E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.Start", "Server\Gz.SmartParking.Server.Start\Gz.SmartParking.Server.Start.csproj", "{DC92A6BE-E381-47CB-B190-7A917BC989E5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{38680994-D7BD-42C3-9571-6735F94F8B7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.Common", "Server\Zhaoxi.SmartParking.Server.Common\Gz.SmartParking.Server.Common.csproj", "{53BB7617-C03C-4DD0-85FE-84306569F628}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.Common", "Server\Gz.SmartParking.Server.Common\Gz.SmartParking.Server.Common.csproj", "{53BB7617-C03C-4DD0-85FE-84306569F628}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gz.SmartParking.Server.EFCore", "Server\Zhaoxi.SmartParking.Server.EFCore\Gz.SmartParking.Server.EFCore.csproj", "{7167C0FF-08DD-4058-BCB9-3BCB0F494343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gz.SmartParking.Server.EFCore", "Server\Gz.SmartParking.Server.EFCore\Gz.SmartParking.Server.EFCore.csproj", "{7167C0FF-08DD-4058-BCB9-3BCB0F494343}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.ICommon", "Server\Zhaoxi.SmartParking.Server.ICommon\Gz.SmartParking.Server.ICommon.csproj", "{C2C573EE-49EC-47DB-AE9A-0239CEDAAEF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.ICommon", "Server\Gz.SmartParking.Server.ICommon\Gz.SmartParking.Server.ICommon.csproj", "{C2C573EE-49EC-47DB-AE9A-0239CEDAAEF0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{A2468904-7071-4F97-BB5E-6A2F7003BE5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.IService", "Server\Zhaoxi.SmartParking.Server.IService\Gz.SmartParking.Server.IService.csproj", "{38DC9F3E-A596-49D9-954D-FD3207D20EE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.IService", "Server\Gz.SmartParking.Server.IService\Gz.SmartParking.Server.IService.csproj", "{38DC9F3E-A596-49D9-954D-FD3207D20EE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.Service", "Server\Zhaoxi.SmartParking.Server.Service\Gz.SmartParking.Server.Service.csproj", "{2F59C662-1A07-44E3-BC1B-ED9DC3A38E7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.Service", "Server\Gz.SmartParking.Server.Service\Gz.SmartParking.Server.Service.csproj", "{2F59C662-1A07-44E3-BC1B-ED9DC3A38E7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.Models", "Server\Zhaoxi.SmartParking.Server.Models\Gz.SmartParking.Server.Models.csproj", "{9FC9B625-1A62-41E4-BCA5-12681E697A4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.SmartParking.Server.Models", "Server\Gz.SmartParking.Server.Models\Gz.SmartParking.Server.Models.csproj", "{9FC9B625-1A62-41E4-BCA5-12681E697A4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Zhaoxi.SmartParking.Server.Models\Gz.SmartParking.Server.Models.csproj" />
+    <ProjectReference Include="..\Gz.SmartParking.Server.Models\Gz.SmartParking.Server.Models.csproj" />
   </ItemGroup>
 
 </Project>

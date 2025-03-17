@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Zhaoxi.SmartParking.Server.ICommon\Gz.SmartParking.Server.ICommon.csproj" />
-    <ProjectReference Include="..\Zhaoxi.SmartParking.Server.IService\Gz.SmartParking.Server.IService.csproj" />
+    <ProjectReference Include="..\Gz.SmartParking.Server.ICommon\Gz.SmartParking.Server.ICommon.csproj" />
+    <ProjectReference Include="..\Gz.SmartParking.Server.IService\Gz.SmartParking.Server.IService.csproj" />
   </ItemGroup>
 
 </Project>

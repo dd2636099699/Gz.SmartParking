@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Zhaoxi.SmartParking.Server.EFCore\Gz.SmartParking.Server.EFCore.csproj" />
-    <ProjectReference Include="..\Zhaoxi.SmartParking.Server.ICommon\Gz.SmartParking.Server.ICommon.csproj" />
+    <ProjectReference Include="..\Gz.SmartParking.Server.EFCore\Gz.SmartParking.Server.EFCore.csproj" />
+    <ProjectReference Include="..\Gz.SmartParking.Server.ICommon\Gz.SmartParking.Server.ICommon.csproj" />
   </ItemGroup>
 
 </Project>
